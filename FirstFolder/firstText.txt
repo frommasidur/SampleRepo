@@ -1,3 +1,2 @@
 This is the first text.
-This line written just after myBranch created
-This line for myBranch
+
